@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/luciannt](https://github.com/luciannt)
+- 👨‍💻 All of my projects are available on my [Github](https://github.com/luciannt)
 
 - 💬 Ask me about **React, Ruby, Rails**
 
-- 📫 How to reach me **luciannatittle@gmail.com**
+- 📫 Reach me by email: **luciannatittle@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AO4619BGHd9QsQtf_GUtKyI6MtePS4e9LPZeYoT8S4M/edit?usp=sharing](https://docs.google.com/document/d/1AO4619BGHd9QsQtf_GUtKyI6MtePS4e9LPZeYoT8S4M/edit?usp=sharing)
+- 📄 Know about my experiences by viewing my [resume](https://docs.google.com/document/d/1AO4619BGHd9QsQtf_GUtKyI6MtePS4e9LPZeYoT8S4M/edit?usp=sharing)
 
 - ⚡ Fun fact **I enjoy visual arts and playing video games in my spare time**
 
